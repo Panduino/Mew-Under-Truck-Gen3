@@ -10,7 +10,7 @@
   "permissions": ["engine_internals"],
   "priority": 122,
   "dependencies": [],
-  "optional_dependencies": ["untamed_advanced", "national_dex_gen3"],
+  "optional_dependencies": [],
   "conflicts": [],
   "description": "Standalone Mew truck event with access to the abandoned S.S. Anne dock after the ship sails.",
   "github": "Panduino/junkidklol"
