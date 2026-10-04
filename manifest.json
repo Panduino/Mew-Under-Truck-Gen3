@@ -1,0 +1,17 @@
+{
+  "id": "mew_event",
+  "name": "Mew Event",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "priority": 122,
+  "dependencies": [],
+  "optional_dependencies": ["untamed_advanced", "national_dex_gen3"],
+  "conflicts": [],
+  "description": "Standalone Mew truck event with access to the abandoned S.S. Anne dock after the ship sails.",
+  "github": "Panduino/junkidklol"
+}
